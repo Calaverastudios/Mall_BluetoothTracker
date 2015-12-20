@@ -16,4 +16,6 @@ var productsData = [
     Product(brand: "Daniel Wellington", price: "1499:-", prodImg: 5),
     ]
 
-var favoritesData:[Product] = []
+var favoritesData:[Product] = [
+    Product(brand: "Le Specs", price: "1999:-", prodImg: 1),
+]
